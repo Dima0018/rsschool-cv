@@ -3,11 +3,8 @@ Curriculum vitae
 #### My name is Fokin Dmytro
 
 #### Contacts:
-
-
-
-
-
+* Mail - dimafs004@gmail.com
+* Telegram - @dimaa_f
 #### About me
 I am motivated and very fast learner. I would really like to connect my life with programming and web technologies. At the moment I am completing higher secondary education and plan to enter the university as a programmer.
 #### Skills
