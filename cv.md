@@ -20,7 +20,7 @@ I am motivated and very fast learner. I would really like to connect my life wit
 #### Education:
 
 * [JavaScript Self-study](https://learn.javascript.ru)
-* [freeCodeCamp (Responsive Web Design Certification and JavaScript Algorithms and Data Structures Certification)](https://www.freecodecamp.org/learn/)
+* [freeCodeCamp (Responsive Web Design Certification and JavaScript Algorithms and Data Structures Certification)](https://www.freecodecamp.org/dima1)
 * [w3schools Self-study](https://www.w3schools.com)
 
 #### English
